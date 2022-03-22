@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ponedeljek
 Ne vem če sem naredil prav
+=======
+Ne vem če sem naredil pra
+22.3.2022 19:59
+>>>>>>> public
